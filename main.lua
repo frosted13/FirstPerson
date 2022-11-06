@@ -1,3 +1,8 @@
+--[[
+credits for this nerd
+Sembon#0010
+--]]
+
 
 local ID = game.Players.LocalPlayer.UserId
 
